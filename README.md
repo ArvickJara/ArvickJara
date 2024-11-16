@@ -1,41 +1,11 @@
-# 🌟 Hey there! I'm @ArvickJara 🚀
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47p7hpnvtlj64a3of328i2ao65yxmtz5beazogrsqv&ep=v1_gifs_search&rid=giphy.gif&ct=g"
+         width="350" height="auto">
+    <h1 aline="center">Hi i am Arvic Kenedi dev</h1>
+</div>
 
-### 🌈 Welcome to my coding universe!  
-I'm a curious developer with a passion for turning ideas into reality through **code**. Whether it's diving into algorithms or building awesome projects, I'm always up for the challenge!  
-
----
-
-### 💡 About Me:
-- 👀 **Interests:**  
-  - Exploring the magic of **Python** 🐍  
-  - Mastering **C++** and unlocking its power 💻  
-  - Dreaming about AI, automation, and the future 🤖✨  
-
-- 🌱 **What I'm Learning:**  
-  - Polishing my skills in **C++** to create efficient, scalable, and fun projects 🎮  
-
-- 🤝 **Looking to Collaborate On:**  
-  - Creative projects involving **backend magic**, **data insights**, or anything that pushes the boundaries of tech 🌐  
-
----
-
-### 🚀 Let's Connect!  
-I'm always excited to meet new people, share ideas, and collaborate on awesome projects. You can find me here:  
-📫 [Email me!](mailto:your-email@example.com)  
-🔗 [Connect on LinkedIn](#)  
-🎨 [Check out my projects!](#)
-
----
-
-### ✨ Fun Fact About Me:  
-When I'm not coding, you'll probably find me:  
-- 🎧 Jamming to lo-fi beats  
-- 🍕 Eating pizza like it's a full-time job  
-- 🌌 Stargazing and wondering how to code a galaxy simulator 🌠  
-
----
-
-> _"Code is poetry in motion."_  
-> **– Anonymous**
-
-🎉 Thanks for stopping by, and don’t forget to star ⭐ your favorite repos! Let's create something **amazing** together! 💻🚀
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello!+Welcome+to+my+profile...;I+am+a+Systems+Engineering+Student...;Programming+Enthusiast...;Always+curious+and+eager+to+learn.">
+  </a>
+</p>
