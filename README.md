@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif?cid=ecf05e47p7hpnvtlj64a3of328i2ao65yxmtz5beazogrsqv&ep=v1_gifs_search&rid=giphy.gif&ct=g"
          width="350" height="auto">
-    <h1 aline="center">Hi i am Arvic Kenedi dev</h1>
+    <h1 aline="center">Hi i am Arvic Kenedi</h1>
 </div>
 
 <p align="center">
