@@ -10,7 +10,7 @@
 
   <!-- Máquina de Escribir SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=50&lines=Estudiante+de+Ingeniería+de+Sistemas;Desarrollador+Full-Stack;Entusiasta+de+la+programación;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&height=50&lines=Egresado+de+Ingeniería+de+Sistemas;Desarrollador+Full-Stack;Entusiasta+de+la+programación;Siempre+aprendiendo+algo+nuevo" alt="Typing SVG" />
   </a>
 
 </div>
