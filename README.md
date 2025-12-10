@@ -20,7 +20,7 @@
 ### 👨‍💻 Sobre Mí
 
 <p>
-  Soy un apasionado estudiante de <b>Ingeniería de Sistemas</b> con un profundo interés en el desarrollo de software y la tecnología. Me encanta resolver problemas, construir aplicaciones web y explorar nuevas herramientas que me permitan crecer como profesional.
+  Soy egresado de la profesión de <b>Ingeniería de Sistemas</b> con un profundo interés en el desarrollo de software y la tecnología. Me encanta resolver problemas, construir aplicaciones web y explorar nuevas herramientas que me permitan crecer como profesional.
 </p>
 
 ---
